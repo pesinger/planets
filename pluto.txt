@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Is Pluto a planet, a planetoid, or something even more amazing???
 Only Time and Science will tell!!!
 This is too philoshophical.
+=======
+Pluto is a planet or not.
+>>>>>>> b9232a9111b40ac49e0be3df244fc78f18053327
